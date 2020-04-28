@@ -1367,7 +1367,7 @@ h3 {
   width: 25px;
   height:25px;
 } */
-.linkedInDiv img{
+.linkedInDiv1 img{
   margin-top: 10px;
   display:inline-block;
   width: 25px;
@@ -1380,7 +1380,7 @@ h3 {
   width: 28px;
   height:28px;
 }
-.linkedInImageHover{
+.linkedInDiv2 img{
   margin-top: 10px;
   display:none;
   width: 25px;
@@ -1393,13 +1393,13 @@ h3 {
   width: 28px;
   height:28px;
 }
-.linkedInDiv:hover .linkedInImage, .gmailDiv:hover .gmailImage{
+.linkedInDiv1:hover .linkedInDiv1 img, .gmailDiv:hover .gmailImage{
     display:none;
 }
-.linkedInDiv:hover .linkedInImageHover, .gmailDiv:hover .gmailImageHover{
+.linkedInDiv1:hover .linkedInDiv2 img, .gmailDiv:hover .gmailImageHover{
     display:inline-block;
 }
-.linkedInDiv, .gmailDiv {
+.linkedInDiv1, .gmailDiv {
   display:inline-block;
 }
 /* line 21, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
