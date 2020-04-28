@@ -1361,7 +1361,13 @@ h3 {
   position: relative;
   z-index: 12;
 }
-.linkedInImage{
+/* .linkedInImage{
+  margin-top: 10px;
+  display:inline-block;
+  width: 25px;
+  height:25px;
+} */
+.linkedInDiv #linkedInImage{
   margin-top: 10px;
   display:inline-block;
   width: 25px;
