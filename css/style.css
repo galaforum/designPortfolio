@@ -1367,13 +1367,13 @@ h3 {
   width: 25px;
   height:25px;
 } */
-.linkedInImage img{
+.linkedInDiv img{
   margin-top: 10px;
   display:inline-block;
   width: 25px;
   height:25px;
 }
-.gmailImage{
+.gmailDiv img{
   margin-top: 10px;
   margin-left: 20px;
   display:inline-block;
