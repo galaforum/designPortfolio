@@ -8,7 +8,7 @@
 @import url("https://fonts.googleapis.com/css?family=Alata|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
 /* line 5, ../../Arafath/CL/December/230. Portfolio/HTML/scss/theme-default.scss */
 body {
-  font-family: "Sen", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: normal;
   font-style: normal;
 }
@@ -92,7 +92,7 @@ p {
   line-height: 28px;
   color: #7A838B;
   margin-bottom: 13px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .copy-right_text p {
   font-size: 16px;
@@ -100,7 +100,7 @@ p {
   line-height: 28px;
   color: #7A838B;
   margin-bottom: 13px;
-  font-family: "Sen", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 /* line 68, ../../Arafath/CL/December/230. Portfolio/HTML/scss/theme-default.scss */
 label {
@@ -2089,11 +2089,11 @@ h3 {
   }
 }
 .about_wrap_area .about_heading h4 {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 300;
-  line-height: 35px;
-  letter-spacing: 5;
-  color: #7A838B;
+  line-height: 30px;
+  letter-spacing: 2;
+  color: #484848;
 }
 
 
@@ -3851,7 +3851,7 @@ h3 {
   color: #828793;
   font-weight: 100;
   letter-spacing: 1px;
-  font-family: 'Sen', sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin-bottom: 0;
 }
 /* line 126, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_create_blog.scss */
@@ -3881,6 +3881,16 @@ h3 {
   margin-right: auto;
   display:block; */
 }
+.displayClassbofaMobile {
+  padding-top: 20px;
+  display:none;
+}
+.displayClassbofaDesktop {
+  padding-top: 20px;
+  /* margin-left: auto;
+  margin-right: auto;
+  display:block; */
+}
 .profileStyle{
     display:block;
     margin:auto;
@@ -3897,6 +3907,12 @@ h3 {
     display: none;
   }
   .displayClassMobile{
+    display: block;
+  }
+  .displayClassbofaDesktop{
+    display: none;
+  }
+  .displayClassbofaMobile{
     display: block;
   }
 }
@@ -3933,7 +3949,7 @@ h3 {
   font-size: 12px;
   color: #828793;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   display: block;
   margin-bottom: 6px;
 }
@@ -3942,20 +3958,34 @@ h3 {
   color: #828793;
   font-weight: 100;
   letter-spacing: 1px;
-  font-family: 'Sen', sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin-bottom: 0;
 }
 .work_details_area_white li {
   list-style: disc;
   font-size: 16px;
-  color: #AAB1B7;
+  color: #484848;
+  /* #AAB1B7; */
   font-weight: 400;
   letter-spacing: 1px;
   line-height: 2;
-  font-family: 'Sen', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 0;
+}
+.work_details_area_black li {
+  list-style: disc;
+  font-size: 16px;
+  color: #AAB1B7;
+  font-weight: 400;
+  /* letter-spacing: 1px; */
+  /* line-height: 2; */
+  font-family: 'Poppins', sans-serif;
   margin-bottom: 0;
 }
 .work_details_area_white ul {
+    padding-bottom: 100px;
+}
+.work_details_area_black ul {
     padding-bottom: 100px;
 }
 .userPersona h5 {
@@ -4068,6 +4098,14 @@ h3 {
 .work_details_area .banner img {
   width: 100%;
 }
+.work_details_area_black .bulletsStyle .banner .imgClassBig {
+  width: 120%;
+  padding-top: 50px;
+}
+.work_details_area_black .bulletsStyle .banner .imgClassSmall {
+  width: 100%;
+  padding-top: 50px;
+}
 .details_info .banner img {
   width: 100%;
 }
@@ -4092,15 +4130,28 @@ h3 {
 
 /* line 65, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .details_info .info p {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
+  letter-spacing:0.5px;
   color: #AAB1B7;
 }
 .work_details_area_white .bulletsStyle {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
-  color: #AAB1B7;
+  letter-spacing: 0.5px;
+  color: #484848;
+  padding-bottom: 30px;
+}
+.work_details_area_black .bulletsStyle {
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: #828793;
   padding-bottom: 20px;
+}
+.work_details_area_black .bulletsStyle h5{
+  color: #FFFFFF;
+  font-size: 18px;
 }
 .work_details_area_white .details_info {
   margin-bottom: 70px;
@@ -4113,9 +4164,10 @@ h3 {
 
 /* line 65, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area_white .details_info .info p {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
-  color: #AAB1B7;
+  letter-spacing: 0.5px;
+  color: #404040;
 }
 
 /* line 74, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
