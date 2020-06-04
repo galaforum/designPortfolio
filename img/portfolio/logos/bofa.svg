@@ -1,0 +1,348 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1476" height="1051" viewBox="0 0 1476 1051">
+  <defs>
+    <filter id="Rectangle_74" x="0" y="0" width="1476" height="1051" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#d8d8d8"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_72" x="505.675" y="126.537" width="463.825" height="844.705" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.533"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_73" data-name="Rectangle 73" width="375" height="629" rx="30" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_10" x="554.088" y="305" width="365" height="241" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_36" x="535.675" y="156" width="399.006" height="123.902" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_11" x="554.088" y="577" width="365" height="247" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-5"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <path id="Path_104" data-name="Path 104" d="M214.168,551.5l-80.133,28.521L167.4,639.714l66.266,3.759,49.171-28.326Z" transform="translate(-134.035 -551.5)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_105" data-name="Path 105" d="M217.4,542.764l-49.05-78.488,90.779-5.525Z" transform="translate(-168.35 -458.751)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_106" data-name="Path 106" d="M222.5,544.055l35.786-71.6,42.24,13.88,11.8,81.083Z" transform="translate(-222.5 -472.455)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_107" data-name="Path 107" d="M222.5,551.5l81.511,21.351-20.731,34.9Z" transform="translate(-222.5 -551.5)" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_11-2" x="554.088" y="858" width="365" height="148" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-6"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-6">
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="25" cy="24.5" rx="25" ry="24.5" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 400 400">
+      <image width="400" height="400" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAGQAZADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDl6KKK84/WAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK0LDQtV1Mj7Fp9zMD0ZYzt/766U0m9iJ1IU1ebsjPortrH4WeIbnBuBb2i9xJJuI/Bcj9a6S0+D9qq/6Zqk8jY6QxhAPzzmrVKb6HnVc6wVPed/TU8lor0jUvhFexZbTb+KdeyTKUI/EZB/SuP1PwprmkEm802dUHWRBvX8xnH40nTkt0bUMywtf4Jq/bYx6KKKg7gooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoorpPDfhMeIZFB1aytgT/q2fdL+Ccfzpxi27IxrV4UIOdR2RzdT2tnc3svlWtvLPJ/diQsfyFe06V8MdAscPcJJfSDvM2F/wC+RgfnmuvtbK2soRDa28UMY6JGgUD8BW8aD6nz+I4kpR0oxv66Hh9j8NfEl5EZGtorYYyBPJgn8BnH44rK1TwnrmkEm706YIOfMQb1/MZx+NfRlBAPUVboRPOhxJiVK8kmux8x2Go3OmXQuLV1SUdC0av/ADBrvNL+LV7BtTUbCGdem+E7Gx9DkH9K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FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVt+HvFOpeG7nzLOXdCxzJA5yj/AOB9xWJRTTa1RnVowrQcKiume5W/xM0KXRWvpJGjnThrUjLlvQdiPf8APFeWeJvF2oeJrnM7eVaqcx26H5V9z6n3/LFYFFXKrKSsedhMnw2Fm6kVd9L9ArrPDc0V3HpsIdRd6defaI4iwXz42K7gpJA3AqMAkcH2rk6KmMuVnbiaCrw5b2PQCbq2isb7XFaxWwmMvlYRftLDlMKv8WeCcYxznrXAyOZZXkbGWJY496bRTlK5GFwvsW3ffsrL+tQoooqDrCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/Z"/>
+    </pattern>
+    <filter id="Rectangle_3" x="542.088" y="908" width="386" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-7"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-7">
+      <path id="path1031" d="M318.77-9510.986h35.975v-19.871H318.77Z" transform="translate(-318.77 9530.857)" fill="#545555"/>
+    </clipPath>
+    <filter id="Rectangle_71" x="0" y="726" width="1476" height="325" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-color="#d8d8d8"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_191" data-name="Group 191" transform="translate(-935 -611)">
+    <g transform="matrix(1, 0, 0, 1, 935, 611)" filter="url(#Rectangle_74)">
+      <rect id="Rectangle_74-2" data-name="Rectangle 74" width="1446" height="1021" rx="30" transform="translate(13 11)" fill="rgba(255,206,0,0.97)"/>
+    </g>
+    <g id="Group_189" data-name="Group 189" transform="translate(1468.675 763.537)">
+      <g transform="matrix(1, 0, 0, 1, -533.68, -152.54)" filter="url(#Rectangle_72)">
+        <g id="Rectangle_72-2" data-name="Rectangle 72" transform="translate(533.68 152.54)" fill="#fff" stroke="#4a4949" stroke-width="15">
+          <rect width="403.825" height="784.704" rx="40" stroke="none"/>
+          <rect x="7.5" y="7.5" width="388.825" height="769.704" rx="32.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Mask_Group_27" data-name="Mask Group 27" transform="translate(14.413 11.463)" clip-path="url(#clip-path)">
+        <g id="Group_186" data-name="Group 186" transform="translate(-0.413 0)">
+          <g id="Group_119" data-name="Group 119" transform="translate(0 0)">
+            <g id="recent_transactions" data-name="recent transactions" transform="translate(12.413 126)">
+              <text id="Recent_Transactions-2" data-name="Recent Transactions" transform="translate(11 12)" fill="#545555" font-size="12" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">Recent Transactions</tspan></text>
+              <g transform="matrix(1, 0, 0, 1, -560.09, -290)" filter="url(#Rectangle_10)">
+                <rect id="Rectangle_10-2" data-name="Rectangle 10" width="353" height="229" rx="10" transform="translate(560.09 309)" fill="#fff"/>
+              </g>
+              <g id="Group_42" data-name="Group 42" transform="translate(16 32)">
+                <text id="October_25" data-name="October 25" transform="translate(0 9)" fill="#545555" font-size="9" font-family="SourceSansPro-Light, Source Sans Pro" font-weight="300" letter-spacing="0.01em"><tspan x="0" y="0">OCTOBER 25</tspan></text>
+                <text id="Shell_Gas_Station_NC" data-name="Shell Gas Station NC" transform="translate(0 22)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Shell Gas Station NC</tspan></text>
+              </g>
+              <text id="_-_20.00" data-name="-$20.00" transform="translate(297 52)" fill="#545555" font-size="12" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">-$20.00</tspan></text>
+              <g id="Group_42-2" data-name="Group 42" transform="translate(16 83)">
+                <text id="October_27" data-name="October 27" transform="translate(0 9)" fill="#545555" font-size="9" font-family="SourceSansPro-Light, Source Sans Pro" font-weight="300" letter-spacing="0.01em"><tspan x="0" y="0">OCTOBER 27</tspan></text>
+                <text id="Splitwise_Share" data-name="Splitwise Share" transform="translate(0 23)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Splitwise Share</tspan></text>
+              </g>
+              <text id="_100.00" data-name="+$100.00" transform="translate(288 100)" fill="#545555" font-size="12" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">+$100.00</tspan></text>
+              <g id="Group_42-3" data-name="Group 42" transform="translate(16 134)">
+                <text id="October_31" data-name="October 31" transform="translate(0 9)" fill="#545555" font-size="9" font-family="SourceSansPro-Light, Source Sans Pro" font-weight="300" letter-spacing="0.01em"><tspan x="0" y="0">OCTOBER 31</tspan></text>
+                <text id="Rent_Payment" data-name="Rent Payment" transform="translate(0 21)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Rent Payment</tspan></text>
+              </g>
+              <text id="_-_500.00" data-name="-$500.00" transform="translate(290 151)" fill="#545555" font-size="12" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">-$500.00</tspan></text>
+              <g id="Group_42-4" data-name="Group 42" transform="translate(16 186)">
+                <text id="NOVEMBER_3" data-name="NOVEMBER 3" transform="translate(0 9)" fill="#545555" font-size="9" font-family="SourceSansPro-Light, Source Sans Pro" font-weight="300" letter-spacing="0.01em"><tspan x="0" y="0">NOVEMBER 3</tspan></text>
+                <text id="KFC_VA" data-name="KFC VA" transform="translate(0 26)" fill="#545555" font-size="11" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">KFC VA</tspan></text>
+              </g>
+              <text id="_-_23.00" data-name="-$23.00" transform="translate(297 200)" fill="#545555" font-size="12" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">-$23.00</tspan></text>
+              <line id="Line_6" data-name="Line 6" x2="327.879" transform="translate(16.12 74.827)" fill="none" stroke="#707070" stroke-width="0.3"/>
+              <line id="Line_7" data-name="Line 7" x2="327.879" transform="translate(16.12 123.796)" fill="none" stroke="#707070" stroke-width="0.3"/>
+              <line id="Line_8" data-name="Line 8" x2="327.879" transform="translate(16.12 172.765)" fill="none" stroke="#707070" stroke-width="0.3"/>
+              <text id="ALL_TRANSACTIONS" data-name="ALL TRANSACTIONS" transform="translate(109 235)" fill="rgba(43,65,134,0.98)" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">ALL TRANSACTIONS</tspan></text>
+            </g>
+            <g id="debit_card" data-name="debit card">
+              <g transform="matrix(1, 0, 0, 1, -547.68, -164)" filter="url(#Path_36)">
+                <path id="Path_36-2" data-name="Path 36" d="M0-.245,374.979-.1c.061,2.754,0,2.931,0,6.4v86.77c0,3.473-.035,4.047,0,6.484L0,99.657c.121-4.738,0-3.114,0-6.587Z" transform="translate(547.68 164.25)" fill="#203988"/>
+              </g>
+              <text id="Ending_with_8539" data-name="Ending with 8539" transform="translate(253.413 52)" fill="#fff" font-size="10" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.064em"><tspan x="0" y="0">Ending with 8539</tspan></text>
+              <text id="_3430.92" data-name="$3430.92" transform="translate(40.413 57)" fill="#fff" font-size="21" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> $3430.92</tspan></text>
+            </g>
+            <g id="spending_and_budgeting" data-name="spending and budgeting" transform="translate(12.413 398)">
+              <text id="Spending_and_Budgeting-2" data-name="Spending and Budgeting" transform="translate(11 12)" fill="#545555" font-size="12" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">Spending and Budgeting</tspan></text>
+              <g transform="matrix(1, 0, 0, 1, -560.09, -562)" filter="url(#Rectangle_11)">
+                <rect id="Rectangle_11-3" data-name="Rectangle 11" width="353" height="235" rx="10" transform="translate(560.09 581)" fill="#fff"/>
+              </g>
+              <text id="On_average_you_spend_200_less_than_you_deposit_each_month._" data-name="On average, you spend $200 less than you deposit each month.   " transform="translate(13 216)" fill="#545555" font-size="7" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">On average, you spend $200 less </tspan><tspan x="0" y="9" xml:space="preserve">than you deposit each month.  </tspan></text>
+              <g id="Group_113" data-name="Group 113" transform="translate(4.829 36.56)">
+                <g id="Group_108" data-name="Group 108" transform="translate(0.171 4.44)" opacity="0.61">
+                  <g id="Ellipse_43" data-name="Ellipse 43" fill="#e61030" stroke="#e61030" stroke-width="1">
+                    <circle cx="80" cy="80" r="80" stroke="none"/>
+                    <circle cx="80" cy="80" r="79.5" fill="none"/>
+                  </g>
+                  <g id="Ellipse_44" data-name="Ellipse 44" transform="translate(26 25)" fill="#fff" stroke="#e61030" stroke-width="1">
+                    <ellipse cx="54.5" cy="55" rx="54.5" ry="55" stroke="none"/>
+                    <ellipse cx="54.5" cy="55" rx="54" ry="54.5" fill="none"/>
+                  </g>
+                </g>
+                <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(0 84.013)" clip-path="url(#clip-path-2)">
+                  <g id="Group_109" data-name="Group 109" transform="translate(0.171 -79.573)">
+                    <g id="Ellipse_43-2" data-name="Ellipse 43" fill="#1a54a5" stroke="#1a54a5" stroke-width="1">
+                      <circle cx="80" cy="80" r="80" stroke="none"/>
+                      <circle cx="80" cy="80" r="79.5" fill="none"/>
+                    </g>
+                    <g id="Ellipse_44-2" data-name="Ellipse 44" transform="translate(26 25)" fill="#fff" stroke="#1a54a5" stroke-width="1">
+                      <ellipse cx="54.5" cy="55" rx="54.5" ry="55" stroke="none"/>
+                      <ellipse cx="54.5" cy="55" rx="54" ry="54.5" fill="none"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(31.083 0)" clip-path="url(#clip-path-3)">
+                  <g id="Group_110" data-name="Group 110" transform="translate(-30.912 4.44)">
+                    <g id="Ellipse_43-3" data-name="Ellipse 43" fill="#f58a2f" stroke="#f58a2f" stroke-width="1">
+                      <circle cx="80" cy="80" r="80" stroke="none"/>
+                      <circle cx="80" cy="80" r="79.5" fill="none"/>
+                    </g>
+                    <g id="Ellipse_44-3" data-name="Ellipse 44" transform="translate(26 25)" fill="#fff" stroke="#f58a2f" stroke-width="1">
+                      <ellipse cx="54.5" cy="55" rx="54.5" ry="55" stroke="none"/>
+                      <ellipse cx="54.5" cy="55" rx="54" ry="54.5" fill="none"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(80.133 12.412)" clip-path="url(#clip-path-4)">
+                  <g id="Group_111" data-name="Group 111" transform="translate(-79.962 -7.972)">
+                    <g id="Ellipse_43-4" data-name="Ellipse 43" fill="#4cb14c" stroke="#4cb14c" stroke-width="1">
+                      <circle cx="80" cy="80" r="80" stroke="none"/>
+                      <circle cx="80" cy="80" r="79.5" fill="none"/>
+                    </g>
+                    <g id="Ellipse_44-4" data-name="Ellipse 44" transform="translate(26 25)" fill="#fff" stroke="#4cb14c" stroke-width="1">
+                      <ellipse cx="54.5" cy="55" rx="54.5" ry="55" stroke="none"/>
+                      <ellipse cx="54.5" cy="55" rx="54" ry="54.5" fill="none"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(80.133 84.013)" clip-path="url(#clip-path-5)">
+                  <g id="Group_112" data-name="Group 112" transform="translate(-79.962 -79.573)">
+                    <g id="Ellipse_43-5" data-name="Ellipse 43" fill="#8e4585" stroke="#8e4585" stroke-width="1">
+                      <circle cx="80" cy="80" r="80" stroke="none"/>
+                      <circle cx="80" cy="80" r="79.5" fill="none"/>
+                    </g>
+                    <g id="Ellipse_44-5" data-name="Ellipse 44" transform="translate(26 25)" fill="#fff" stroke="#8e4585" stroke-width="1">
+                      <ellipse cx="54.5" cy="55" rx="54.5" ry="55" stroke="none"/>
+                      <ellipse cx="54.5" cy="55" rx="54" ry="54.5" fill="none"/>
+                    </g>
+                  </g>
+                </g>
+                <text id="_2240.88" data-name="$2240.88" transform="translate(45.171 87.44)" fill="#545555" font-size="15" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600"><tspan x="0" y="0">$2240.88</tspan></text>
+              </g>
+              <g id="Group_114" data-name="Group 114" transform="translate(211 36)">
+                <rect id="Rectangle_73-2" data-name="Rectangle 73" width="3" height="25" transform="translate(0 3)" fill="#1a54a5"/>
+                <text id="Education" transform="translate(9 9)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.02em"><tspan x="0" y="0">Education</tspan></text>
+                <text id="_784.30" data-name="$784.30" transform="translate(9 24)" fill="#545555" font-size="10" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">$784.30</tspan></text>
+              </g>
+              <g id="Group_115" data-name="Group 115" transform="translate(211 75)">
+                <rect id="Rectangle_73-3" data-name="Rectangle 73" width="3" height="26" transform="translate(0 1)" fill="#e61030" opacity="0.61"/>
+                <text id="Food_Groceries" data-name="Food &amp; Groceries" transform="translate(9 8)" fill="#545555" font-size="8" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.02em"><tspan x="0" y="0">Food &amp; Groceries</tspan></text>
+                <text id="_560.22" data-name="$560.22" transform="translate(9 22)" fill="#545555" font-size="10" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">$560.22</tspan></text>
+              </g>
+              <g id="Group_116" data-name="Group 116" transform="translate(211 115)">
+                <rect id="Rectangle_73-4" data-name="Rectangle 73" width="3" height="24" transform="translate(0 1)" fill="#f58a2f"/>
+                <text id="Finance" transform="translate(9 9)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.02em"><tspan x="0" y="0">Finance</tspan></text>
+                <text id="_224.08" data-name="$224.08" transform="translate(9 22)" fill="#545555" font-size="10" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">$224.08</tspan></text>
+              </g>
+              <g id="Group_117" data-name="Group 117" transform="translate(211 151)">
+                <rect id="Rectangle_73-5" data-name="Rectangle 73" width="3" height="25" transform="translate(0 2)" fill="#4cb14c"/>
+                <text id="Insurance" transform="translate(9 9)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.02em"><tspan x="0" y="0">Insurance</tspan></text>
+                <text id="_570.22" data-name="$570.22" transform="translate(9 22)" fill="#545555" font-size="10" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">$570.22</tspan></text>
+              </g>
+              <g id="Group_118" data-name="Group 118" transform="translate(211 191)">
+                <rect id="Rectangle_73-6" data-name="Rectangle 73" width="3" height="25" transform="translate(0 1)" fill="#8e4585"/>
+                <text id="Miscellaneous" transform="translate(9 8)" fill="#545555" font-size="8" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.02em"><tspan x="0" y="0">Miscellaneous</tspan></text>
+                <text id="_102.04" data-name="$102.04" transform="translate(9 22)" fill="#545555" font-size="10" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">$102.04</tspan></text>
+              </g>
+            </g>
+            <g id="account_information" data-name="account information" transform="translate(12.413 679)">
+              <g id="spending_and_budgeting-3" data-name="spending and budgeting" transform="translate(0 0)">
+                <text id="Account_Information-2" data-name="Account Information" transform="translate(11 12)" fill="#545555" font-size="12" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">Account Information</tspan></text>
+                <g transform="matrix(1, 0, 0, 1, -560.09, -843)" filter="url(#Rectangle_11-2)">
+                  <rect id="Rectangle_11-4" data-name="Rectangle 11" width="353" height="136" rx="10" transform="translate(560.09 862)" fill="#fff"/>
+                </g>
+                <text id="_123412341234" data-name="123412341234" transform="translate(263 40)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">123412341234</tspan></text>
+                <text id="Account_Number" data-name="Account Number" transform="translate(11 40)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Account Number</tspan></text>
+                <text id="Routing_Numbers" data-name="Routing Numbers" transform="translate(11 84)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Routing Numbers</tspan></text>
+                <text id="Paper_Electronic" data-name="Paper &amp; Electronic" transform="translate(270 83)" fill="#545555" font-size="6" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Paper &amp; Electronic</tspan></text>
+                <text id="Wires" transform="translate(320 121)" fill="#545555" font-size="7" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Wires</tspan></text>
+                <text id="_888811110" data-name="888811110" transform="translate(281 97)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">888811110</tspan></text>
+                <text id="_888811111" data-name="888811111" transform="translate(281 133)" fill="#545555" font-size="9" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">888811111</tspan></text>
+              </g>
+              <line id="Line_10" data-name="Line 10" x2="327.879" transform="translate(11.591 61.497)" fill="none" stroke="#707070" stroke-width="0.3"/>
+            </g>
+            <g id="erica" transform="translate(316.413 683)" opacity="0.8" clip-path="url(#clip-path-6)">
+              <rect id="virtualAssistant" width="51" height="52" transform="translate(-1 -2)" fill="url(#pattern)"/>
+            </g>
+            <g id="navigation_menu" data-name="navigation menu" transform="translate(0.413 752)">
+              <g transform="matrix(1, 0, 0, 1, -548.09, -916)" filter="url(#Rectangle_3)">
+                <rect id="Rectangle_3-2" data-name="Rectangle 3" width="374" height="60" transform="translate(548.09 916)" fill="#fff"/>
+              </g>
+              <g id="navigation_menu-2" data-name="navigation menu" transform="translate(12.268 11)">
+                <g id="Group_21" data-name="Group 21" transform="translate(65.805 0)" style="isolation: isolate">
+                  <g id="Group_14" data-name="Group 14" transform="translate(22.645 8.748)">
+                    <g id="Group_13" data-name="Group 13" transform="translate(0 4.951) rotate(-90)">
+                      <line id="Line_1" data-name="Line 1" y1="6.09" transform="translate(2.516 0.546)" fill="none" stroke="#545555" stroke-width="1.5"/>
+                      <path id="Path_13" data-name="Path 13" d="M2.989,0,0,3.1" fill="none" stroke="#545555" stroke-width="1.5"/>
+                      <path id="Path_14" data-name="Path 14" d="M2.933,2.943,0,0" transform="translate(2.018 0.046)" fill="none" stroke="#545555" stroke-width="1.5"/>
+                    </g>
+                    <g id="Group_18" data-name="Group 18" transform="translate(21.129) rotate(90)">
+                      <line id="Line_1-2" data-name="Line 1" y1="6.09" transform="translate(2.516 0.546)" fill="none" stroke="#545555" stroke-width="1.5"/>
+                      <path id="Path_13-2" data-name="Path 13" d="M2.989,0,0,3.1" fill="none" stroke="#545555" stroke-width="1.5"/>
+                      <path id="Path_14-2" data-name="Path 14" d="M2.933,2.943,0,0" transform="translate(2.018 0.046)" fill="none" stroke="#545555" stroke-width="1.5"/>
+                    </g>
+                  </g>
+                  <text id="Transfer_Zelle" data-name="Transfer/Zelle" transform="translate(0 29.548)" fill="#545555" font-size="7" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Transfer/Zelle</tspan></text>
+                  <g id="Group_26" data-name="Group 26" transform="translate(27.927 0)">
+                    <text id="S" transform="translate(0 17)" fill="#545555" font-size="17" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">S</tspan></text>
+                    <path id="Path_29" data-name="Path 29" d="M1042,1619.792v2.4" transform="translate(-1036.642 -1615.157)" fill="none" stroke="#545555" stroke-width="2"/>
+                    <path id="Path_31" data-name="Path 31" d="M1042,1619.792v2.4" transform="translate(-1036.642 -1602.892)" fill="none" stroke="#545555" stroke-width="2"/>
+                  </g>
+                </g>
+                <g id="Group_22" data-name="Group 22" transform="translate(153.818 0.22)">
+                  <g id="g11" transform="translate(7.246)">
+                    <g id="g3420">
+                      <g id="g1019" transform="translate(4.092 7.441)">
+                        <path id="path1021" d="M-215.522-64.744v-1.993h-6.94v9.3h2.083V-60.76h4.167v-1.993h-4.167v-1.993Z" transform="translate(222.462 66.737)" fill="#545555"/>
+                      </g>
+                      <path id="path1023" d="M695.371-9272.312h-2.083v-9.3h2.083Z" transform="translate(-681.605 9289.05)" fill="#545555"/>
+                      <g id="g1025">
+                        <g id="g1027" clip-path="url(#clip-path-7)">
+                          <g id="g1033" transform="translate(14.511 7.229)">
+                            <path id="path1035" d="M-219.345-223.081a3.039,3.039,0,0,1-2.049.784,2.916,2.916,0,0,1-2.977-2.85A2.915,2.915,0,0,1-221.394-228a3.041,3.041,0,0,1,2.028.764,5.718,5.718,0,0,1,1.055-1.7,5.137,5.137,0,0,0-3.08-1.016,4.91,4.91,0,0,0-5.015,4.8,4.91,4.91,0,0,0,5.015,4.8,5.135,5.135,0,0,0,3.123-1.045,5.74,5.74,0,0,1-1.074-1.688" transform="translate(226.405 229.947)" fill="#545555"/>
+                          </g>
+                          <g id="g1037" transform="translate(22.143 7.233)">
+                            <path id="path1039" d="M-155.721-248.523a2.916,2.916,0,0,1-2.978-2.85,2.916,2.916,0,0,1,2.978-2.85,2.916,2.916,0,0,1,2.977,2.85,2.916,2.916,0,0,1-2.977,2.85m0-7.649a4.909,4.909,0,0,0-5.015,4.8,4.91,4.91,0,0,0,5.015,4.8,4.91,4.91,0,0,0,5.016-4.8,4.91,4.91,0,0,0-5.016-4.8" transform="translate(160.736 256.173)" fill="#545555"/>
+                          </g>
+                          <g id="g1041" transform="translate(30.499 15.945)">
+                            <path id="path1043" d="M0-4.8V-4.95H.685V-4.8H.435v.651H.254V-4.8Z" transform="translate(0 4.95)" fill="#545555"/>
+                          </g>
+                          <g id="g1045" transform="translate(31.276 15.945)">
+                            <path id="path1047" d="M-8.027,0l.2.55h0L-7.65,0h.258V.8h-.171V.233h0l-.2.567h-.141l-.2-.562h0V.8h-.172V0Z" transform="translate(8.285)" fill="#545555"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <text id="FICO_Score" data-name="FICO Score" transform="translate(0 29.136)" fill="#545555" font-size="7" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">FICO Score</tspan></text>
+                </g>
+                <g id="Group_23" data-name="Group 23" transform="translate(233.7 2.327)">
+                  <text id="Cash_Rewards" data-name="Cash Rewards" transform="translate(0 28.17)" fill="#545555" font-size="8" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Cash Rewards</tspan></text>
+                  <g id="cashRewards1" transform="translate(23.54 0)">
+                    <g id="Group_16" data-name="Group 16" transform="translate(0)">
+                      <path id="Path_24" data-name="Path 24" d="M34.691,36.467a.783.783,0,0,1-.735.8H20.629a.783.783,0,0,1-.735-.8A14.652,14.652,0,0,1,24.158,25.4l.932-.906H29.5l.932.906a14.652,14.652,0,0,1,4.264,11.065ZM24.108,20.115a8.825,8.825,0,0,0,6.365,0L29.352,23.5H25.231ZM31,24.644l-.822-.8,1.232-3.714a.906.906,0,0,0-.168-.882.667.667,0,0,0-.777-.193l-.011,0a8.047,8.047,0,0,1-6.341,0,.668.668,0,0,0-.778.192.906.906,0,0,0-.168.882L24.4,23.851l-.821.8a15.711,15.711,0,0,0-4.573,11.866,1.721,1.721,0,0,0,1.623,1.756H33.956a1.721,1.721,0,0,0,1.619-1.763A15.714,15.714,0,0,0,31,24.641Zm-2.4,6.378a3.227,3.227,0,0,0-1.178-.576,2.294,2.294,0,0,1-.911-.425.613.613,0,0,1,.047-.925,1.13,1.13,0,0,1,.762-.234.983.983,0,0,1,.738.281.906.906,0,0,1,.263.627v.039a.344.344,0,1,0,.686,0v-.041a1.664,1.664,0,0,0-.48-1.227,1.585,1.585,0,0,0-.879-.447v-.611a.37.37,0,1,0-.734,0V28.1a1.7,1.7,0,0,0-.778.343,1.375,1.375,0,0,0-.515,1.122,1.341,1.341,0,0,0,.453,1.087,3.324,3.324,0,0,0,1.167.561,2.572,2.572,0,0,1,.93.444.634.634,0,0,1,.2.5.611.611,0,0,1-.251.514,1.2,1.2,0,0,1-.775.238,1.466,1.466,0,0,1-.854-.255.748.748,0,0,1-.3-.618v-.085a.344.344,0,1,0-.686,0V32a1.514,1.514,0,0,0,.58,1.31,1.993,1.993,0,0,0,.836.351v.625a.37.37,0,1,0,.734,0v-.606a1.765,1.765,0,0,0,.89-.368,1.558,1.558,0,0,0,.059-2.291Z" transform="translate(-18.987 -19.006)" fill="#545555" stroke="#545555" stroke-width="0.5" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Group_24" data-name="Group 24" transform="translate(315.223 8.243)">
+                  <g id="Group_19" data-name="Group 19" transform="translate(5.435)">
+                    <line id="Line_3" data-name="Line 3" x2="14.892" fill="none" stroke="#707070" stroke-width="3"/>
+                    <line id="Line_4" data-name="Line 4" x2="14.892" transform="translate(0 5.812)" fill="none" stroke="#707070" stroke-width="3"/>
+                    <line id="Line_5" data-name="Line 5" x2="14.892" transform="translate(0 11.624)" fill="none" stroke="#707070" stroke-width="3"/>
+                  </g>
+                  <text id="Menu" transform="translate(0 21.328)" fill="#545555" font-size="7" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Menu</tspan></text>
+                </g>
+                <g id="Group_27" data-name="Group 27" transform="translate(0 0)">
+                  <g id="Group_20" data-name="Group 20" transform="translate(0 22.618)">
+                    <text id="Accounts" transform="translate(0 7)" fill="#e61030" font-size="7" font-family="SourceSansPro-Regular, Source Sans Pro" letter-spacing="0.01em"><tspan x="0" y="0">Accounts</tspan></text>
+                  </g>
+                  <g id="Group_25" data-name="Group 25" transform="translate(16.732 0)">
+                    <text id="S-2" data-name="S" transform="translate(0 17)" fill="#e61030" font-size="17" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">S</tspan></text>
+                    <path id="Path_29-2" data-name="Path 29" d="M1042,1619.792v2.4" transform="translate(-1037.222 -1615.157)" fill="none" stroke="#e61030" stroke-width="2"/>
+                    <path id="Path_31-2" data-name="Path 31" d="M1042,1619.792v2.4" transform="translate(-1037.222 -1602.892)" fill="none" stroke="#e61030" stroke-width="2"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="backButton" transform="translate(8.152 40.757)">
+              <g id="chevron-left" transform="translate(0 0)">
+                <path id="Path_81" data-name="Path 81" d="M69.726,2.1,67.63,0,58.65,8.98l8.98,8.98,2.1-2.1L62.841,8.981Z" transform="translate(-58.65)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <ellipse id="Ellipse_28" data-name="Ellipse 28" cx="54.5" cy="54" rx="54.5" ry="54" transform="translate(57.413 477.463)" fill="#fff"/>
+      <text id="_2240.88-2" data-name="$2240.88" transform="translate(83.413 536.463)" fill="#545555" font-size="15" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600"><tspan x="0" y="0">$2240.88</tspan></text>
+    </g>
+    <g id="Group_187" data-name="Group 187" transform="translate(948 1348)">
+      <g transform="matrix(1, 0, 0, 1, -13, -737)" filter="url(#Rectangle_71)">
+        <rect id="Rectangle_71-2" data-name="Rectangle 71" width="1446" height="295" rx="30" transform="translate(13 737)" fill="#fff"/>
+      </g>
+      <g id="Group_197" data-name="Group 197" transform="translate(0 33)">
+        <text id="Bank_of_America_Lite" data-name="Bank of America Lite" transform="translate(49.5 88)" fill="#484848" font-size="52" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Bank of America Lite</tspan></text>
+        <text id="A_lighter_and_more_intuitive_version_of_the_original_application" data-name="A lighter and more intuitive version of the original application" transform="translate(49.5 130.68)" fill="#484848" font-size="38" font-family="Poppins-Regular, Poppins" letter-spacing="0.01em"><tspan x="0" y="40">A lighter and more intuitive version of the original application</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
