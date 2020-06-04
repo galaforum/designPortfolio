@@ -4093,10 +4093,23 @@ h3 {
     margin-bottom: 40px;
   }
 }
-
+.portfolio_area .banner img {
+    width:40%;
+    padding-top: 10px;
+}
+.columnDesktop {
+  float: left;
+  width: 45%;
+  padding: 10px 10px 10px 10px;
+}
+.columnMobile {
+  float: left;
+  width: 100%;
+  padding: 10px 10px 10px 10px;
+}
 /* line 56, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .banner img {
-  width: 100%;
+  width: 60%;
 }
 .work_details_area_black .bulletsStyle .banner .imgClassBig {
   width: 120%;
@@ -4109,10 +4122,36 @@ h3 {
 .details_info .banner img {
   width: 100%;
 }
+.caption_white{
+  font-size: 15px;
+  font-weight: 350;
+  letter-spacing:0.5px;
+  padding-top: 10px;
+  color: #AAB1B7;
+}
+.caption_black{
+  font-size: 15px;
+  font-weight: 350;
+  letter-spacing:0.5px;
+  padding-top: 10px;
+  color: #484848;
+}
 @media (max-width: 600px) {
   /* line 51, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
   .work_details_area_black .banner img{
     width: 80%;
+  }
+  /* .work_details_area_black .banner .caption{
+    font-size: 25px;
+  } */
+}
+@media (max-width: 767px) {
+  /* line 51, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
+  .work_details_area .banner img{
+    width:80%;
+  }
+  .banner .caption_white, .banner .caption_black{
+    font-size: 14px;
   }
 }
 /* .work_details_area_black .banner img {
