@@ -2183,6 +2183,8 @@ h3 {
 /* line 25, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_gallery.scss */
 .portfolio_area .portfolio_wrap {
   overflow: hidden;
+  padding-bottom: 30px;
+  /* padding-top: 20px; */
   /* background:#040E27; */
 }
 
@@ -4100,12 +4102,18 @@ h3 {
 .columnDesktop {
   float: left;
   width: 45%;
-  padding: 10px 10px 10px 10px;
+  padding: 60px 30px 10px 30px;
+
 }
 .columnMobile {
   float: left;
   width: 100%;
-  padding: 10px 10px 10px 10px;
+  padding: 20px 10px 20px 10px;
+}
+.imgBorder {
+  border: 1px solid #D0D0D0;
+  border-radius: 15px;
+  /* border-radius: 20px; */
 }
 /* line 56, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .banner img {
