@@ -904,7 +904,7 @@ h3 {
 
 /* line 16, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_header.scss */
 .header-area .main-header-area {
-  padding: 29px 85px;
+  padding: 10px 85px;
   background: #fff;
   background: transparent;
 }
@@ -926,14 +926,14 @@ h3 {
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 16, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_header.scss */
   .header-area .main-header-area {
-    padding: 25px 50px;
+    padding: 10px 50px;
   }
 }
 
 @media (min-width: 1200px) and (max-width: 1500px) {
   /* line 16, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_header.scss */
   .header-area .main-header-area {
-    padding: 25px 85px;
+    padding: 10px 85px;
   }
 }
 
@@ -2614,6 +2614,7 @@ h3 {
 /* line 80, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_footer.scss */
 .footer .copy-right_text {
   padding-bottom: 47px;
+  padding-top: 50px;
 }
 
 /* line 82, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_footer.scss */
@@ -3045,7 +3046,7 @@ h3 {
   font-family: "Poppins", sans-serif;
 }
 .testimonial_area_black {
-  padding: 100px 0 100px 0;
+  padding: 100px 0 50px 0;
   background: #040E27;
   position: relative;
   z-index: 0;
@@ -4114,6 +4115,24 @@ h3 {
   border: 1px solid #D0D0D0;
   border-radius: 15px;
   /* border-radius: 20px; */
+}
+.containerFooter {
+    width: 100%;
+    padding-right: 55px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footerProject {
+  text-align: right;
+  font-size: 25px;
+  font-weight: 450;
+  color: #596672;
+}
+.footerProject a {
+  color: #596672;
+  /* 6C7C8B; */
+  /* #869CB1; */
 }
 /* line 56, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .banner img {
