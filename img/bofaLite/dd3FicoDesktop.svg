@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="971" height="674" viewBox="0 0 971 674">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="971" height="717" viewBox="0 0 971 717">
   <defs>
     <clipPath id="clip-path">
       <rect id="Rectangle_67" data-name="Rectangle 67" width="392" height="674" transform="translate(146 2158)" fill="#fff" stroke="#707070" stroke-width="1"/>
@@ -16,5 +16,7 @@
         <line id="Line_4" data-name="Line 4" x1="12" y2="13" transform="translate(688 581.5)" fill="none" stroke="#fff" stroke-width="5" opacity="0.9"/>
       </g>
     </g>
+    <text id="Existing_application_as_of_Nov_2019_" data-name="Existing application (as of Nov, 2019)" transform="translate(148 2869)" fill="#828793" font-size="18" font-family="Poppins-Regular, Poppins" letter-spacing="0.005em"><tspan x="0" y="0">Existing application (as of Nov, 2019)</tspan></text>
+    <text id="Bank_of_America_Lite" data-name="Bank of America Lite" transform="translate(812 2869)" fill="#828793" font-size="18" font-family="Poppins-Regular, Poppins" letter-spacing="0.005em"><tspan x="0" y="0">Bank of America Lite</tspan></text>
   </g>
 </svg>
