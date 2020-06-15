@@ -4210,6 +4210,24 @@ h3 {
   line-height:60px;
   border-radius:30px;
 }
+#nutriFitMyBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 60px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #192953;
+  color: white;
+  cursor: pointer;
+
+  height:60px;
+  width:60px;
+  line-height:60px;
+  border-radius:30px;
+}
 /* #myBtn img {
   transform: rotate(-90deg);
 } */
