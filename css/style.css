@@ -1459,14 +1459,16 @@ h3 {
 
 /* line 44, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text span {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 400;
-  color: #0181F5;
+  color: #DDDADA;
   position: relative;
   z-index: 1;
   display: block;
   margin-bottom: 22px;
   font-family: "Poppins", sans-serif;
+  line-height:40px;
+  padding-top:40px;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
