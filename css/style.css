@@ -7,6 +7,13 @@
 /* 1. Theme default css */
 @import url("https://fonts.googleapis.com/css?family=Alata|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
 /* line 5, ../../Arafath/CL/December/230. Portfolio/HTML/scss/theme-default.scss */
+:root {
+  --highlight-walker1: #7ABFAA;/* green */
+  --highlight-walker2: #FEEB9E;/* yellow */
+  --highlight-walker3: #BDC8FD;/* purple */
+  --highlight-walker4: #5AD1FF60;/* blue */
+  --highlight-walker-black: #C0C0C0;
+}
 body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
@@ -90,7 +97,7 @@ p {
   font-size: 16px;
   font-weight: 300;
   line-height: 28px;
-  color: #7A838B;
+  color: #484848;
   margin-bottom: 13px;
   font-family: "Poppins", sans-serif;
 }
@@ -109,7 +116,62 @@ label {
   font-size: 14px;
   font-weight: 400;
 }
+.section-divider{
+  text-align: center;
+  padding-bottom: 100px;
+}
+@media (max-width: 767px) {
+  /* line 24, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_section_title.scss */
+  .section-divider {
+    text-align: center;
+    padding-bottom: 50px;
+  }
+}
+.dot1, .dot2{
+  margin-right: 30px;
+}
+.dot1, .dot2, .dot3{
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  background: black;
 
+}
+.highlight {
+  position: relative;
+  background-origin: 0;
+  background-size: 200% 100%;
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+  transition: background-position 0.8s ease-out;
+  padding: 0.3px 0px;
+}
+
+.highlight.shown {
+  position: relative;
+  background-origin: 0;
+  background-size: 200% 100%;
+  background-repeat: repeat-x;
+  background-position: -100% 100%;
+  transition: background-position 0.8s ease-out;
+}
+
+.highlight-walker1 {
+  background-image: linear-gradient(to right, transparent 50%, var(--highlight-walker1) 50%);
+}
+.highlight-walker2 {
+  background-image: linear-gradient(to right, transparent 50%, var(--highlight-walker2) 50%);
+}
+.highlight-walker3 {
+  background-image: linear-gradient(to right, transparent 50%, var(--highlight-walker3) 50%);
+}
+.highlight-walker4 {
+  background-image: linear-gradient(to right, transparent 50%, var(--highlight-walker4) 50%);
+}
+.highlight-walker_black {
+  background-image: linear-gradient(to right, transparent 50%, var(--highlight-walker-black) 50%);
+  color: #000000;
+}
 /* line 74, ../../Arafath/CL/December/230. Portfolio/HTML/scss/theme-default.scss */
 *::-moz-selection {
   background: #444;
@@ -4037,10 +4099,10 @@ h3 {
   padding-bottom: 100px;
   color: #fff;
 }
-.work_details_area_black_noPadding h3{
+.work_details_area_white_noPadding h3{
   font-size:38px;
   padding-bottom: 30px;
-  color: #fff;
+  color: #000;
 }
 .work_details_area_black small{
   font-size:22px;
@@ -4146,7 +4208,7 @@ h3 {
   font-size: 20px;
   font-weight:400;
   line-height: 28px;
-  color: #7A838B;
+  color: #484848;
   padding-top: 20px;
 }
 .columnMobileNutriFit h4{
@@ -4309,6 +4371,13 @@ h3 {
   letter-spacing: 0.5px;
   color: #484848;
   padding-bottom: 30px;
+  line-height: 27px;
+}
+.negativeMargin100 {
+  margin-bottom: -100px;
+}
+.positiveMargin100 {
+  margin-bottom: 100px;
 }
 .work_details_area_black .bulletsStyle {
   font-size: 15px;
@@ -4316,6 +4385,7 @@ h3 {
   letter-spacing: 0.5px;
   color: #828793;
   padding-bottom: 20px;
+  line-height: 27px;
 }
 .work_details_area_black .bulletsStyle h5{
   color: #FFFFFF;
