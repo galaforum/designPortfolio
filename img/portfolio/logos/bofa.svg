@@ -1,21 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1318" height="1318" viewBox="0 0 1318 1318">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1377" height="1377" viewBox="0 0 1377 1377">
   <defs>
-    <filter id="Rectangle_72" x="367.675" y="191.138" width="621.814" height="967.104" filterUnits="userSpaceOnUse">
-      <feOffset dx="2" dy="4" input="SourceAlpha"/>
+    <filter id="Rectangle_74" x="0" y="0" width="1377" height="1377" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feFlood flood-opacity="0.533"/>
+      <feFlood flood-color="#868383" flood-opacity="0.482"/>
       <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_72" x="387.675" y="211.138" width="621.814" height="967.104" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.533"/>
+      <feComposite operator="in" in2="blur-2"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <clipPath id="clip-path">
       <rect id="Rectangle_83" data-name="Rectangle 83" width="523" height="960" rx="40" transform="translate(5237 1718)" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Group_202" data-name="Group 202" transform="translate(-948 -622)">
-    <rect id="Rectangle_74" data-name="Rectangle 74" width="1317" height="1317" rx="30" transform="translate(948 622)" fill="rgba(255,206,0,0.97)"/>
+  <g id="Group_202" data-name="Group 202" transform="translate(-928 -602)">
+    <g transform="matrix(1, 0, 0, 1, 928, 602)" filter="url(#Rectangle_74)">
+      <rect id="Rectangle_74-2" data-name="Rectangle 74" width="1317" height="1317" rx="30" transform="translate(20 20)" fill="rgba(255,206,0,0.97)"/>
+    </g>
     <g id="Group_189" data-name="Group 189" transform="translate(1355.675 885.138)">
-      <g transform="matrix(1, 0, 0, 1, -407.68, -263.14)" filter="url(#Rectangle_72)">
-        <g id="Rectangle_72-2" data-name="Rectangle 72" transform="translate(395.68 217.14)" fill="none" stroke="#4a4949" stroke-width="30">
+      <g transform="matrix(1, 0, 0, 1, -427.68, -283.14)" filter="url(#Rectangle_72)">
+        <g id="Rectangle_72-2" data-name="Rectangle 72" transform="translate(415.68 237.14)" fill="none" stroke="#4a4949" stroke-width="30">
           <rect width="561.814" height="907.103" rx="60" stroke="none"/>
           <rect x="15" y="15" width="531.814" height="877.103" rx="45" fill="none"/>
         </g>
