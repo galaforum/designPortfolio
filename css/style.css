@@ -8,10 +8,13 @@
 @import url("https://fonts.googleapis.com/css?family=Alata|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
 /* line 5, ../../Arafath/CL/December/230. Portfolio/HTML/scss/theme-default.scss */
 :root {
+  --primary-black: #555555;
+  --secondary-black: #868686;
+
   --highlight-walker1: #7ABFAA;/* green */
   --highlight-walker2: #FEEB9E;/* yellow */
-  --highlight-walker3: #BDC8FD;/* purple */
-  --highlight-walker4: #5AD1FF60;/* blue */
+  --highlight-walker3: #5AD1FF60;/* blue */
+  --highlight-walker4: #BDC8FD;/* purple */
   --highlight-walker-black: #C0C0C0;
 }
 body {
@@ -841,6 +844,7 @@ h3 {
   }
 }
 
+
 /* line 13, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav {
   background: #fff;
@@ -869,7 +873,11 @@ h3 {
 .slicknav_menu .slicknav_nav a.active {
   color: #5DB2FF;
 }
-
+/* #sidebar {
+  position:fixed;
+  z-index: 1;
+  width:220px;
+} */
 @media (max-width: 767px) {
   /* line 35, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slick-nav.scss */
   .slicknav_menu .slicknav_nav a i {
